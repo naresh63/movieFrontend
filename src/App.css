@@ -22,8 +22,9 @@
  button{
    margin:10px;
  }
-.modal{
+ .update-model{
   border:1p solid red;
+  background-color: grey;
   width:80%;
   min-height:10vh;
   margin-left:20px;
